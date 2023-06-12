@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(15000)
+sys.setrecursionlimit(1000001)
 input = sys.stdin.readline
 
 parent = [i for i in range(1000001)]
